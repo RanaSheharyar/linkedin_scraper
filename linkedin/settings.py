@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'linkedin.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
-SCRAPEOPS_API_KEY = 'YOUR_API_KEY'
+SCRAPEOPS_API_KEY = 'be38f3fb-1e43-4905-a463-29f736a89528'
 
 SCRAPEOPS_PROXY_ENABLED = True
 
@@ -39,3 +39,4 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Max Concurrency On ScrapeOps Proxy Free Plan is 1 thread
 CONCURRENT_REQUESTS = 1
+
